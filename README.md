@@ -5,3 +5,5 @@ The data necessary to build earth models used in Ahinoam Pollack's Master's Thes
 Data include the surfaces and well data. 
 For already made full earth models in SKUA and RESQML, please download from box.com:
 https://stanford.box.com/v/InvestigationSurfaceExpression
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
