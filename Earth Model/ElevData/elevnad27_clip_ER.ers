@@ -1,0 +1,18 @@
+DatasetHeader Begin
+  Version = "5.0"
+  DataSetType = ERStorage
+  DataType = Raster
+  ByteOrder = LSBFirst
+  CoordinateSpace Begin
+    Datum = "RAW"
+    Projection = "RAW"
+    CoordinateType = RAW
+    Rotation = 0:0:0.0
+  CoordinateSpace End
+  RasterInfo Begin
+    CellType = IEEE4BYTEREAL
+    NrOfLines = 358
+    NrOfCellsPerLine = 461
+    NrOfBands = 1
+  RasterInfo End
+DatasetHeader End

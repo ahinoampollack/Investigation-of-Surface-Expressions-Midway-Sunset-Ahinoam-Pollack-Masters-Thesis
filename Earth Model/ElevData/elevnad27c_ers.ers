@@ -1,0 +1,48 @@
+DatasetHeader Begin
+	Version		= "11.0"
+	Name		= "elevnad27c_ers.ers"
+	LastUpdated	= Tue Oct 25 22:11:40 GMT 2016
+	DataSetType	= ERStorage
+	DataType	= Raster
+	ByteOrder	= LSBFirst
+	CoordinateSpace Begin
+		Datum		= "GCS_North_American_1927"
+		Projection	= "LOCAL"
+		CoordinateType	= EN
+		Rotation	= 0:0:0.0
+	CoordinateSpace End
+	RasterInfo Begin
+		CellType	= Unsigned8BitInteger
+		NullCellValue	= -9999
+		CellInfo Begin
+			Xdimension	= 31.007026447326002
+			Ydimension	= 31.007026447326101
+		CellInfo End
+		NrOfLines	= 456
+		NrOfCellsPerLine	= 485
+		RegistrationCoord Begin
+			Eastings	= 1547086.2956253604
+			Northings	= 602639.88064800529
+		RegistrationCoord End
+		NrOfBands	= 1
+		BandId Begin
+			Value		= "Pseudo Layer"
+		BandId End
+		RegionInfo Begin
+			Type		= Polygon
+			RegionName	= "All"
+			SourceDataset	= "elevnad27c_ers"
+			RGBcolour Begin
+				Red			= 65535
+				Green		= 65535
+				Blue		= 65535
+			RGBcolour End
+			SubRegion	= {
+				0	0
+				0	456
+				485	456
+				485	0
+			}
+		RegionInfo End
+	RasterInfo End
+DatasetHeader End
