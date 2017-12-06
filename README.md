@@ -8,4 +8,10 @@ Data include the surfaces and well data.
 For already made full earth models in SKUA and RESQML, please download from box.com:
 https://stanford.box.com/v/InvestigationSurfaceExpression
 
+![alt text](https://github.com/ahinoampollack/Investigation-of-Surface-Expressions-Midway-Sunset-Ahinoam-Pollack-Masters-Thesis/blob/master/GrainDensity.png)
+
+![alt text](https://github.com/ahinoampollack/Investigation-of-Surface-Expressions-Midway-Sunset-Ahinoam-Pollack-Masters-Thesis/blob/master/Porosity.png)
+
+![alt text](https://github.com/ahinoampollack/Investigation-of-Surface-Expressions-Midway-Sunset-Ahinoam-Pollack-Masters-Thesis/blob/master/Permeability.png)
+
 ![alt text](https://github.com/ahinoampollack/Investigation-of-Surface-Expressions-Midway-Sunset-Ahinoam-Pollack-Masters-Thesis/blob/master/githubimage.png)
