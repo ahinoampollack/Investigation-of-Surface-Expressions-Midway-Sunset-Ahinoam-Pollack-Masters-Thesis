@@ -2,6 +2,8 @@
 
 The final presentation for this work is in the attached pdf file. 
 
+See thesis at https://stacks.stanford.edu/file/druid:hc473sj3881/MastersThesisAhinoamPollackUpload.pdf
+
 This repository includes the data necessary to build the earth models used in Ahinoam Pollack's Master's Thesis: STATISTICAL INVESTIGATION OF SURFACE EXPRESSIONS IN THE MIDWAY SUNSET OIL FIELD.
 
 Data include the surfaces and well data. 
